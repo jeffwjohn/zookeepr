@@ -126,6 +126,16 @@
         "hungry"
       ],
       "id": "12"
+    },
+    {
+      "name": "Brad",
+      "species": "Bobcat",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "zany"
+      ],
+      "id": "13"
     }
   ]
 }
